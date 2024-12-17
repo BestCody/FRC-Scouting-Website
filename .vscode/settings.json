@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "140.82.0.181",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "ScoutingApp",
+            "name": "MySQL Scout",
+            "username": "Hansen",
+            "connectionTimeout": 30,
+            "askForPassword": true
+        }
+    ]
+}
